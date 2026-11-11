@@ -1,0 +1,6 @@
+{
+  "name": "ArogyaSetu Rural - Multilingual Healthcare Assistant",
+  "description": "AI-powered multilingual healthcare assistant bridging rural patients, ASHA healthcare workers, and medical prescriptions with OCR, local language simplification, voice assistance, and medication reminders.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
